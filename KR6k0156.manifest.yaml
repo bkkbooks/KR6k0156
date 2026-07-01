@@ -1,0 +1,277 @@
+canonical_identifier: bkk:krp/KR6k0156/v1
+canonical_location: https://kanripo.org/bkk/KR6k0156/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 四分律隨機羯磨疏正源記
+  identifiers:
+    alt_id:
+    - X40n0726
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X40/X40n0726.xml
+    old_id: X40n0726
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0156_000.yaml, hash: 'sha256:3fc0e8ee526849d67d9856eb094843a2f5415541229002a71e4fc89e6ea59a98'}
+  - {seq: 1, filename: KR6k0156_001.yaml, hash: 'sha256:62742a3a8f5fa0096b459bb569ba9538b2a70ca47ae9cb2e12b444505cc22717'}
+  - {seq: 2, filename: KR6k0156_002.yaml, hash: 'sha256:cfdfb866b5b95bb7f2dfc775f538b089f05042899e6ffac0faf494120a7ef5b7'}
+  - {seq: 3, filename: KR6k0156_003.yaml, hash: 'sha256:6374f2eb645c24b3fa645d7cf1053ff399c2c6efcd6c976cf28d860065a2fabc'}
+  - {seq: 4, filename: KR6k0156_004.yaml, hash: 'sha256:74c3d41a0f3f50e1e0ebecc6724366c4575a994eb577377f3b7a3f4bc510e8ab'}
+  - {seq: 5, filename: KR6k0156_005.yaml, hash: 'sha256:5d1e8d9b81d0e7de03b8dde78c117fbb7839f7ffb156847b189e0d578262f28a'}
+  - {seq: 6, filename: KR6k0156_006.yaml, hash: 'sha256:67edb5c3929588ec6e0d7396a6bf6f47f873de684fdcedc008d75d1a267fd26d'}
+  - {seq: 7, filename: KR6k0156_007.yaml, hash: 'sha256:4e765f0d8de7b1e99c916a4db077a9f67094e6e6be8a562c2cbdad6b0f7e6393'}
+  - {seq: 8, filename: KR6k0156_008.yaml, hash: 'sha256:2f9caef86002450d6994beb6928093a1310167d1987ffc5a99a87c038270f9b2'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0156_000.markers.yaml, hash: 'sha256:12ea44a0578dbc5c594433692e498c3ea9d711df3841eae6437b40e896db7963'}
+  - {seq: 1, role: markers, filename: assets/KR6k0156_001.markers.yaml, hash: 'sha256:38610d649b47e14b2eed62204c972d7ba6f2e1f1867a6af08a36606630cf289e'}
+  - {seq: 2, role: markers, filename: assets/KR6k0156_002.markers.yaml, hash: 'sha256:cad688b89571c222816108838ed859a131ea53d6491c6921b631744db0394c42'}
+  - {seq: 3, role: markers, filename: assets/KR6k0156_003.markers.yaml, hash: 'sha256:2a0442f7a47486618f96232936c9c30714e4645b109ddded97992e7254557ed0'}
+  - {seq: 4, role: markers, filename: assets/KR6k0156_004.markers.yaml, hash: 'sha256:521344feb3338758ef9ad18869576fe9a6740f3514337766dbaefaabefeb543b'}
+  - {seq: 5, role: markers, filename: assets/KR6k0156_005.markers.yaml, hash: 'sha256:27ed0e71de5bbd92240585530a3f0420eba6bf659df1f8b47a1dd229e269e961'}
+  - {seq: 6, role: markers, filename: assets/KR6k0156_006.markers.yaml, hash: 'sha256:d9f93fdb6aab3cc3ce4ef2d5011ff68431c7725024a94efce7bc18d93434c1b8'}
+  - {seq: 7, role: markers, filename: assets/KR6k0156_007.markers.yaml, hash: 'sha256:9a4d1bbc17c9e8b1f3ac2d82db51ec5194cfe9ef309571a7e73f7c0e2604c8b4'}
+  - {seq: 8, role: markers, filename: assets/KR6k0156_008.markers.yaml, hash: 'sha256:f889cab7f80e3f9ff7b128b59afeb06eeabd12328850496b1a135741b57cb83c'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6k0156_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0156_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 17136
+  label: 四分律隨機羯磨疏正源記卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0156_X_001-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0156_X_001-mulu-2
+    span:
+    - body
+    - 270
+    - 270
+  label: 釋道宣撰疏序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0156_X_001-mulu-3
+    span:
+    - body
+    - 4705
+    - 4705
+  label: 釋道宣撰隨機羯磨序
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0156_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 15736
+  label: 四分律隨機羯磨疏正源記卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0156_X_002-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 釋集法緣成篇第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0156_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 20058
+  label: 四分律隨機羯磨疏正源記卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0156_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 17576
+  label: 四分律刪補隨機羯磨疏正源記卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0156_X_004-mulu-1
+    span:
+    - body
+    - 396
+    - 396
+  label: 釋諸界結解篇第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0156_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 19527
+  label: 四分律隨機羯磨疏正源記卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0156_X_005-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 釋諸界受法篇第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6k0156_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 20147
+  label: 四分律隨機羯磨疏正源記卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6k0156_X_007-juan-start
+    span:
+    - body
+    - 0
+    - 21508
+  label: 四分律隨機羯磨疏正源記卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6k0156_X_007-mulu-1
+    span:
+    - body
+    - 12190
+    - 12190
+  label: 釋衣藥受淨篇第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0156_X_008-juan-start
+    span:
+    - body
+    - 0
+    - 17345
+  label: 四分律刪補隨機羯磨疏正源記卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0156_X_008-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 釋諸說戒法篇第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0156_X_008-mulu-2
+    span:
+    - body
+    - 2058
+    - 2058
+  label: 釋諸眾安居篇第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0156_X_008-mulu-3
+    span:
+    - body
+    - 9260
+    - 9260
+  label: 釋諸眾自恣法篇第七
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0156_X_008-mulu-4
+    span:
+    - body
+    - 10237
+    - 10237
+  label: 釋諸衣分法篇第八
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0156_X_008-mulu-5
+    span:
+    - body
+    - 11339
+    - 11339
+  label: 釋懺六聚篇第九
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0156_X_008-mulu-6
+    span:
+    - body
+    - 16710
+    - 16710
+  label: 釋雜法住持篇第十
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0156_X_008-mulu-7
+    span:
+    - body
+    - 17086
+    - 17086
+  label: No. 726-A
+  type: mulu
+  level: 1
+hash: sha256:276ab7a52235ea820e690b9236ac06bce7f00dc912d4bff70d991effe0971b2a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

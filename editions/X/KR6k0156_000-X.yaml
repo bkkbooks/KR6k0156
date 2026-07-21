@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR6k0156/x/v1/juan/0
 seq: 0
-front:
+body:
   text: 四分律隨機羯磨疏正源記目次卷第一序釋道宣撰疏序釋道宣撰隨機羯磨序卷第二釋集法緣成篇第一卷第三釋集法緣成篇之餘卷第四釋諸界結解篇第二卷第五釋諸界受法篇第三卷第六釋諸界受法篇之餘卷第七釋諸界受法篇之餘釋衣藥受淨篇第四卷第八釋諸說戒法篇第五釋諸眾安居篇第六釋諸眾自恣法篇第七釋諸衣分法篇第八釋懺六聚篇第九釋雜法住持篇第十䟦四分律隨機羯磨疏正源記目次終
   hash: sha256:d16416bda0e3b88c9d0b9ff410cea28f782ccb697c948a11a7ff65c9b3112464
   markers:
   - {type: 其他, offset: 0, content: 目次, id: KR6k0156_X_000-mulu-1, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 四分律隨機羯磨疏正源記
   edition:
@@ -16,4 +13,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/X/X40/X40n0726.xml
     old_id: X40n0726
-hash: sha256:f386a1f1bda8a4aa390c480e40c957d55324e1762630ad45c0b5dda8172273c9
+hash: sha256:d6410d72121eb2cc9a81ef5fc603f8c69f4b31eaa675bb143cfab417f59d9066
